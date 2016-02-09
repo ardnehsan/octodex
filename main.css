@@ -1,0 +1,25 @@
+.octodex{
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+}
+
+.octocat{
+
+
+
+}
+
+.image-footer
+{
+  text-align: right;
+}
+
+ul.image-footer{
+  border: 1px solid black;
+}
+.image-footer img
+{
+  width: 20px;
+  height: 20px;'
+}
